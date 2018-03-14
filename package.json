@@ -1,0 +1,25 @@
+{
+  "name": "17.4ExpressJS_static_files",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LukaszW007/17.4ExpressJS_static_files.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LukaszW007/17.4ExpressJS_static_files/issues"
+  },
+  "homepage": "https://github.com/LukaszW007/17.4ExpressJS_static_files#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "nodemon": "^1.17.2"
+  }
+}
