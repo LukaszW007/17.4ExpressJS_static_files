@@ -1,0 +1,13 @@
+doctype html
+html
+    head
+        title='LogIn'
+    body
+        p.tile#login-title Log in using google account
+        form.login-form(action='/auth/google' method='GET')
+            p.login-name LOGIN
+            input.login-input(name='login')
+            p.password PASSWORD
+            input.password-input(name='password')
+            br
+            input.btn-submit(type='submit' value='Log in')
